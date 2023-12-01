@@ -1,1 +1,1 @@
-# File
+print("hello world")
